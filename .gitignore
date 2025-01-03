@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+*.zim
+*.bz2
+*.offsets
+P.xml
+Q
+zimdump
